@@ -4,7 +4,7 @@
 
 Kxxxb：https://owo.misaka.rest/koyeb-xray/
 
-Flyio：https://owo.misaka.rest/flyio-xray/
+Fxxxo：https://owo.misaka.rest/flyio-xray/
 
 # 请勿使用常用的账号部署此项目，以免封号！！
 
